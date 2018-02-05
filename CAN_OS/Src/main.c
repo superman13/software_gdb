@@ -115,7 +115,7 @@ int main(void)
   MX_I2S3_Init();
   MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
-
+	HAL_GPIO_TogglePin(LD4_GPIO_Port, LD4_Pin);
   /* USER CODE END 2 */
 
   /* Call init function for freertos objects (in freertos.c) */
