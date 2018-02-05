@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecu_selka", "CAN_OS\ecu_selka.vcxproj", "{3A8A2B78-AEAA-4B4A-BA03-EB91D095FDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8A2B78-AEAA-4B4A-BA03-EB91D095FDC1}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{3A8A2B78-AEAA-4B4A-BA03-EB91D095FDC1}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{3A8A2B78-AEAA-4B4A-BA03-EB91D095FDC1}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{3A8A2B78-AEAA-4B4A-BA03-EB91D095FDC1}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40B3663-1E93-4A0B-8C4E-68F025C734BF}
+	EndGlobalSection
+EndGlobal
